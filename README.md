@@ -15,18 +15,18 @@
 ## Project: Text to Image Generation Application
 
 <p align="center">
-  <img url="https://github.com/user-attachments/assets/082109f2-477c-4132-8a88-1a6f66959187" width="45%" />
-  <img url="https://github.com/user-attachments/assets/fff09c75-f220-48ad-aa30-e5c21fa37232" width="45%" />
+  <img src="https://github.com/user-attachments/assets/082109f2-477c-4132-8a88-1a6f66959187" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fff09c75-f220-48ad-aa30-e5c21fa37232" width="45%" />
 </p>
 <p align="center">
-  <img url="https://github.com/user-attachments/assets/8067cb1e-1858-44ae-8a03-73b9c0c7043c" width="45%" />
-  <img url="https://github.com/user-attachments/assets/bc04e840-2efb-4867-94ea-45c6f42d0998" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8067cb1e-1858-44ae-8a03-73b9c0c7043c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bc04e840-2efb-4867-94ea-45c6f42d0998" width="45%" />
 </p>
 
 ### Single Image
 
 <p align="center">
-  <img url="https://github.com/user-attachments/assets/95fa8e4a-fce6-40e7-97e2-c8c163c4857c" width="90%" />
+  <img src="https://github.com/user-attachments/assets/95fa8e4a-fce6-40e7-97e2-c8c163c4857c" width="90%" />
 </p>
 ![Screenshot 2024-11-12 131652](https://github.com/user-attachments/assets/082109f2-477c-4132-8a88-1a6f66959187)
 ![Screenshot 2024-11-12 132652](https://github.com/user-attachments/assets/fff09c75-f220-48ad-aa30-e5c21fa37232)
