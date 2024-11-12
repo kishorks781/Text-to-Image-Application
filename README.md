@@ -52,12 +52,12 @@ This project is a Text-to-Image Generation Application that allows users to crea
 
 
 ### Technical Details
-**Frameworks and Tools:**
-     - **Backend:** Flask and PyTorch are used to handle model loading, prompt processing, and image generation.
-     - **Frontend:** HTML, CSS, and JavaScript create a seamless and responsive UI.
-     - **Models:** Diffusion models from Hugging Face's Diffusers library power the generation capabilities.
-
-**CUDA Memory Management:** Each model unloads automatically after image generation, clearing GPU memory for the next selection.
+ 1. **Frameworks and Tools:**
+       - **Backend:** Flask and PyTorch are used to handle model loading, prompt processing, and image generation.
+       - **Frontend:** HTML, CSS, and JavaScript create a seamless and responsive UI.
+       - **Models:** Diffusion models from Hugging Face's Diffusers library power the generation capabilities.
+  
+  2. **CUDA Memory Management:** Each model unloads automatically after image generation, clearing GPU memory for the next selection.
 
 
 ### Usage
