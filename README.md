@@ -61,10 +61,11 @@ This project is a Text-to-Image Generation Application that allows users to crea
 
 
 ### Usage
-- Clone the repository.
-- Ensure diffusers, torch, flask, and required CUDA dependencies are installed.
-- Run server.py to start the Flask backend server.
-- Open the index.html file in a browser to interact with the app.
-- This application provides a straightforward and efficient approach to text-to-image generation with multiple model support, making it an ideal tool for experimentation and creative projects.
+  - Clone the repository.
+  - Ensure diffusers, torch, flask, and required CUDA dependencies are installed.
+  - Run server.py to start the Flask backend server.
+  - Open the index.html file in a browser to interact with the app.
+
+This application provides a straightforward and efficient approach to text-to-image generation with multiple model support, making it an ideal tool for experimentation and creative projects.
 
 
